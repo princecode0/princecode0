@@ -1,5 +1,6 @@
 ## princecode0
 This is my first Git Repository
+Author-prince kumar
 
 <!--
 **princecode0/princecode0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
