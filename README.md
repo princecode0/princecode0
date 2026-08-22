@@ -1,4 +1,6 @@
-## Hi there 👋
+## princecode0
+<br>
+This is my first Git Repository
 
 <!--
 **princecode0/princecode0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
